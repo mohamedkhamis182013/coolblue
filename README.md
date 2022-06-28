@@ -31,3 +31,4 @@ Notes:
 		for performance purpose.
 	-behaviors  and Exceptions and dbcontext are not coverd in unittest because of limitation of time.
 	-time wasn't enough for me to implement feature3.
+	-i intented to add Repositories to be as a layer of abstrction above the DbContext. but didn't have enaugh time to add it. 
