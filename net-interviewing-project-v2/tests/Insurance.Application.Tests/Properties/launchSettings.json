@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Insurance.Application.Tests": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
