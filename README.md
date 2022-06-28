@@ -1,4 +1,5 @@
 # coolblue
+Please Make sure to have productdata.api.dll up and running in http://localhost:5002/ before run the project
 1-BugFix:
    i added a test case when productType can be Insured and
    one of the types that should be insured by 500 withit was failing then i seperated the condtion
